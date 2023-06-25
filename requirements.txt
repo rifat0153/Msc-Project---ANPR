@@ -3,6 +3,7 @@ ipykernel
 numpy
 pandas
 opencv-python
+tesseract
 pytesseract
 plotly
 matplotlib
