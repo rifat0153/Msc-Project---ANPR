@@ -10,3 +10,5 @@ matplotlib
 lxml
 scikit-image
 scikit-learn
+gputil
+numba
