@@ -41,8 +41,6 @@ Ignore File Endings and File Permissions
 git config --global core.autocrlf false && git config core.fileMode false
 Reset Git Cache
 
+```bash
 git rm -r --cached . && git add .
-
-```
-
 ```
