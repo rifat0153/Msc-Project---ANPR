@@ -62,7 +62,7 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 
 ## Authors
 
-- Your Name
+- Mahbubur Rahman
 
 ## License
 
